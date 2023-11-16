@@ -1,0 +1,6 @@
+Epic Systems (Ginsberg, dissenting): 
+
+> the Board and federal courts have affirmed that the Act shields employees from employer interference when they participate in concerted appeals to the media, _e.g.,_ [_NLRB v. Peter Cailler Kohler Swiss Chocolates Co.,_ 130 F.2d 503, 505-506 (C.A.2 1942),](https://scholar.google.com/scholar_case?case=8276836534732098609&hl=en&as_sdt=6,34) legislative bodies, _e.g.,_ [_Bethlehem Shipbuilding Corp. v. NLRB,_ 114 F.2d 930, 937 (C.A.1 1940),](https://scholar.google.com/scholar_case?case=1243238953721769125&hl=en&as_sdt=6,34) and government agencies, _e.g.,_ [_Moss Planing Mill Co.,_ 103 N.L.R.B. 414, 418-419,](https://scholar.google.com/scholar_case?about=469259682390712949&hl=en&as_sdt=6,34) enf'd, [206 F.2d 557 (C.A.4 1953)](https://scholar.google.com/scholar_case?case=12357528390997159423&hl=en&as_sdt=6,34).
+
+
+> the Board and federal courts have recognized that the NLRA shields employees from employer interference when they, _e.g.,_ join together to file complaints with administrative agencies, even if those agencies did not exist in 1935. See, _e.g.,_ [_Wray Electric Contracting, Inc.,_ 210 N.L.R.B. 757, 762 (1974)](https://scholar.google.com/scholar_case?about=4950670854698809461&hl=en&as_sdt=6,34) (the NLRA protects concerted filing of complaint with the Occupational Safety and Health Administration).
