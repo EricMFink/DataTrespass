@@ -52,7 +52,7 @@ This provision could be construed to apply to union "salts": union members who t
 
 Employee protections under the NLRA apply to those engaged in salting,[^PCA24], whether overt or covert,[^PCA25] as long as they are "genuinely interested in seeking to establish an employment relationship with the employer."[^PCA26] 
 
-MIGHT BE OK IF LIABILITY UNDER NCPPA & OTHER STATE LAWS IS LIMITED TO THOSE WHO OBTAIN EMPLOYMENT FOR THE SOLE PURPOSE OF CAUSING INJURY, OR WITH NO BONA FIDE INTEREST IN THE JOB ITSELF. NOTE AMBIGUITY IN LANGUAGE OF NCPPA.[^PCA27] But, as written, "employment fraud" provisions in these statutes at least plausibly cover those with mixed motives, who would be regarded as statutory employees under the NLRA. This is particularly true of the NCPPA, which explicitly identifies those subject to liability as "employees" and further predicates their liability on the use of recordings or other information "to breach the person's duty of loyalty to the employer." 
+MIGHT BE OK IF LIABILITY UNDER NCPPA & OTHER STATE LAWS IS LIMITED TO THOSE WHO OBTAIN EMPLOYMENT FOR THE SOLE PURPOSE OF CAUSING INJURY, OR WITH NO Bona Fide INTEREST IN THE JOB ITSELF. NOTE AMBIGUITY IN LANGUAGE OF NCPPA.[^PCA27] But, as written, "employment fraud" provisions in these statutes at least plausibly cover those with mixed motives, who would be regarded as statutory employees under the NLRA. This is particularly true of the NCPPA, which explicitly identifies those subject to liability as "employees" and further predicates their liability on the use of recordings or other information "to breach the person's duty of loyalty to the employer." 
 
 ### Communication with Co-Workers & Public
 
@@ -75,7 +75,7 @@ Concerted activity may lose protection under the NLRA if it amounts to disloyalt
 COMPARE/CONTRAST DISLOYALTY EXCEPTION UNDER NLRA WITH "DUTY OF LOYALTY" UNDER STATE LAW. 
 
 
-[^PCA1]: @NCPropertyProtectionAct2016 []; see also, @ArkansasdDataTrespass2017 []. Some Ag-Gag statutes also specifically apply to employee activity. CITES. Others would implicitly apply to employees engaged in the types of activity generally subject to liability. CITES.
+[^PCA1]: @NCPropertyProtection2016 []; see also, @ArkansasDataTrespass2017 []. Some Ag-Gag statutes also specifically apply to employee activity. CITES. Others would implicitly apply to employees engaged in the types of activity generally subject to liability. CITES.
 
 [^PCA2]: @NationalLaborRelations1935 [152(3)].
 
@@ -87,21 +87,21 @@ COMPARE/CONTRAST DISLOYALTY EXCEPTION UNDER NLRA WITH "DUTY OF LOYALTY" UNDER ST
 
 [^PCA6]: See @BudAntleInc1994 [p. 1274] (agricultural laborer exclusion does not apply to employees of vegetable cooling and packing facility where employer did not grow vegetables itself but purchased them from independent growers); @MontereyCounty1953 [] (agricultural laborer exclusion does not apply to employees of contractor hired to construct buildings and install equipment on poultry farm).
 
-[^PCA7]: @HollyFarms1966 [] (employees who collect live chickens from independent growers and deliver them to employer's processing plant not excluded); @BaysideEnterprises1977 [] (truck drivers who deliver poultry feed produced at employer's mill to independent poultry farms under contract with employer not excluded); @CalMaineFarms1993 [] (egg processing facility employees who regularly handle products purchased by employer from outside sources not excluded); @CamscoProduceCo1990 [] (mushroom processing facility employees who regularly handle products purchased by employer from outside sources not excluded).
+[^PCA7]: @HollyFarms1966 [] (employees who collect live chickens from independent growers and deliver them to employer's processing plant not excluded); @BaysideEnterprisesInc1977 [] (truck drivers who deliver poultry feed produced at employer's mill to independent poultry farms under contract with employer not excluded); @CalMaineFarms1993 [] (egg processing facility employees who regularly handle products purchased by employer from outside sources not excluded); @CamscoProduceCo1990 [] (mushroom processing facility employees who regularly handle products purchased by employer from outside sources not excluded).
 
 [^PCA8]: See, e.g. @IdahoAgriculturalProduction2014 [sections (2)(a) & (b)] (defining "Agricultural production" and "Agricultural production facility" to include "Construction, expansion, use, maintenance and repair of an agricultural production facility," "Processing and packaging agricultural products, including the processing and packaging of agricultural products into food and other agricultural commodities," and "Manufacturing animal feed," along with activity more directly connected to raising crops and animals.); accord OTHER STATES.
 
-[^PCA9]: @WashingtonAluminum1962 [].
+[^PCA9]: @NLRBWashingtonAluminum1962 [].
 
 [^PCA10]: @NationalLaborRelations1935 [section 157].
 
 [^PCA11]: @NationalLaborRelations1935 [section 158(a)(1)].
 
-[^PCA12]: @WashingtonAluminum1962 [xyz], (quoting NLRA Section 2(9), 29 U.S.C. sec. 152(a), defining "labor dispute").
+[^PCA12]: @NLRBWashingtonAluminum1962 [], (quoting NLRA Section 2(9), 29 U.S.C. sec. 152(a), defining "labor dispute").
 
-[^PCA13]: @WashingtonAluminum1962 [].
+[^PCA13]: @NLRBWashingtonAluminum1962 [].
 
-[^PCA14]: @WashingtonAluminum1962 [].
+[^PCA14]: @NLRBWashingtonAluminum1962 [].
 
 [^PCA15]: @BoeingCompany2017 []
 
@@ -111,7 +111,7 @@ COMPARE/CONTRAST DISLOYALTY EXCEPTION UNDER NLRA WITH "DUTY OF LOYALTY" UNDER ST
 
 [^PCA18]: @WholeFoodsMarket2015 [], citing @TimesHeraldRecord2001 [p. 354]; @ArrowFlintElectric1996 [p. 1219]; @WellstreamCorp1994 [p. 711]; @McAllisterBros1986 [p. 601, n. 2, 605, n.3]; @AlgrecoSportswearCo1984 [p. 505]; @EastBeldenCorp1978 [p. 782].
 
-[^PCA19]: @NCPropertyProtectionAct2016 [secs. (b)(1) & (2)] (emphasis supplied); see also @ArkansasdDataTrespass2017 []. Some Ag-Gag laws similarly target those who gain entry to the premises under the guise of seeking employment. See, e.g., CITE (imposing liability on one who "Obtains employment with an agricultural production facility by force, threat, or misrepresentation with the intent to cause economic or other injury").
+[^PCA19]: @NCPropertyProtection2016 [secs. (b)(1) & (2)] (emphasis supplied); see also @ArkansasDataTrespass2017 []. Some Ag-Gag laws similarly target those who gain entry to the premises under the guise of seeking employment. See, e.g., CITE (imposing liability on one who "Obtains employment with an agricultural production facility by force, threat, or misrepresentation with the intent to cause economic or other injury").
 
 [^PCA20]: See @dallSaltingEarthOrganizing2002 []; @formanLetGetWork2017 [] (reviewing the history and practice of salting and describing the author's own experience as a salt); @walshDoubleLifeUndercover2016 [].
 
