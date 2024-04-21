@@ -16,12 +16,16 @@ author:
 
 ---
 
-# Prohibited Activity Under the NCPPA and Other State Data Trespass Laws
+# Prohibited Activity Under the NCPPA
 
-## North Carolina
+## Statutory Provisions
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Lorem ipsum.
 
-## Other States
+## Constitutional Challenge
 
-Lorem ipsum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+## Other Cases
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.

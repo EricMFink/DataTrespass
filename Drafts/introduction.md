@@ -6,14 +6,10 @@ article: true
 title: 'Workers Un-Gagged'
 subtitle: 'Introduction'
 header: 'Data Trespass and Labor Preemption'
-
 author:
-  - name: Eric M. Fink
-    position: Associate Professor of Law
-    affiliation: Elon Law School 
-    address: Greensboro, North Carolina
-    email: efink@elon.edu
-
+ - name: Eric M. Fink
+   affiliation: Elon University School of Law
+   email: 
 ---
 
 
