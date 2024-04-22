@@ -27,7 +27,7 @@ This article aims to address this gap. Focusing on the NCPPA because of its expl
 
 [^Intro1]: @animalwelfareinstitute2022 []; @CenterforConstitutionalRights2017 [p. 10]. States that have adopted such laws include (in chronological order): Kansas, Montana, North Dakota, Alabama, Iowa, Missouri, Utah, Idaho, Wyoming, North Carolina, and Arkansas. @CenterforConstitutionalRights2017 [p. 10, 13, 15-16, 18-20]. The earliest of these laws applied specifically to agricultural facilities, giving rise to the sobriquet "ag-gag" laws. See @CenterforConstitutionalRights2017 [p. 2-3]; @Sanders2019 [p. 493-94]. 
 
-[^Intro2]: @NCPropertyProtection2016 []. Arkansas has adopted a similar statute. @ArkansasDataTrespass2017 []; see @ALDFvVaught2020-EDArk [n.4] ("Representative Vaught ... explained in introducing the Arkansas Ag-Gag law to the House Judiciary Committee that it 'is modeled after a newly enacted law in North Carolina in 2016.'"). 
+[^Intro2]: @NCPropertyProtection2016 []. Arkansas has adopted a similar statute. @ArkansasDataTrespass2017 []; see @ALDFvVaught2020-EDArk [n.4] ("Representative Vaught ... explained in introducing the Arkansas Ag-Gag law to the House Judiciary Committee that it 'is modeled after a newly enacted law in North Carolina in 2016.'").
 
 [^Intro3]: I use the term "data trespass" to encompass laws imposing criminal or civil liability for unauthorized recording or data collection, whether limited to agricultural facilities or (as in North Carolina, Arkansas, and Wyoming) covering other premises and facilities as well. See @solomonWyomingDataTrespass2016 [] (describing Wyoming statutes as "data trespass laws"); @kurtzWyomingFederalCourt2016 [] (same). 
 
