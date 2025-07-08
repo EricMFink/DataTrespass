@@ -1,19 +1,6 @@
 ---
-date: 2023-04-04
-path: /Drafts/preemption.md
-article: true
-
-title: 'Workers Un-Gagged'
-subtitle: 'Federal Labor Preemption of State Data Trespass Laws'
-header: 'Data Trespass and Labor Preemption'
-
-author:
-  - name: Eric M. Fink
-    position: Associate Professor of Law
-    affiliation: Elon Law School 
-    address: Greensboro, North Carolina
-    email: efink@elon.edu
-
+section: preemption
+modified: 2025-07-08
 ---
 
 # Federal Law Preempts the NCPPA and Other State Data Trespass Laws to the Extent that They Impose Liability on Employees for Conduct Protected Under the National Labor Relations Act

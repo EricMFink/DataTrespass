@@ -1,19 +1,6 @@
 ---
-date: 2023-04-01
-path: /Drafts/pca.md
-article: true
-
-title: 'Workers Un-Gagged'
-subtitle: 'Federal Labor Preemption of State Data Trespass Laws'
-header: 'Data Trespass and Labor Preemption'
-
-author:
-  - name: Eric M. Fink
-    position: Associate Professor of Law
-    affiliation: Elon Law School 
-    address: Greensboro, North Carolina
-    email: efink@elon.edu
-
+section: pca
+modified: 2025-07-08
 ---
 
 # The NCPPA and Other State Data Trespass Laws Subject Employees to Liability for Conduct that is Protected Under Federal Labor Law
@@ -73,7 +60,6 @@ Disclosure of information to state officials is exempt from liability under the 
 Concerted activity may lose protection under the NLRA if it amounts to disloyalty to the employer. For example, "sharp, public, disparaging attack[s] upon the quality of the company’s product and its business policies, in a manner reasonably calculated to harm the company’s reputation and reduce its income" may be unprotected, even if made in connection with a labor dispute.[^PCA30]
 
 COMPARE/CONTRAST DISLOYALTY EXCEPTION UNDER NLRA WITH "DUTY OF LOYALTY" UNDER STATE LAW. 
-
 
 [^PCA1]: @NCPropertyProtection2016 []; see also, @ArkansasDataTrespass2017 []. Some Ag-Gag statutes also specifically apply to employee activity. CITES. Others would implicitly apply to employees engaged in the types of activity generally subject to liability. CITES.
 

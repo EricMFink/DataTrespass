@@ -1,6 +1,6 @@
 ---
-date: 21 April 2024
-path: DataTrespass/article.md
+modified: 2025-07-08
+path: DataTrespass/draft.md
 title: Workers Un-Gagged
 subtitle: Federal Labor Preemption of State Data Trespass Laws
 header: Data Trespass and Labor Preemption
@@ -24,18 +24,3 @@ epigraph:
     source: The Issue (1908)
 
 ---
-``` {.include}
-introduction.md
-``````
-``` {.include}
-state_laws.md
-``````
-``` {.include}
-pca.md
-``````
-``` {.include}
-preemption.md
-``````
-``` {.include}
-conclusion.md
-``````
