@@ -1,6 +1,6 @@
 ---
 modified: 2025-07-08
-path: DataTrespass/draft.md
+path: DataTrespass/draft
 title: Workers Un-Gagged
 subtitle: Federal Labor Preemption of State Data Trespass Laws
 header: Data Trespass and Labor Preemption
