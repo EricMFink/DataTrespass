@@ -3,7 +3,7 @@ section: preemption
 modified: 2025-07-08
 ---
 
-# Federal Law Preempts the NCPPA and Other State Data Trespass Laws to the Extent that They Impose Liability on Employees for Conduct Protected Under the National Labor Relations Act
+# Federal Law Preempts the NCPPA as Applied to Employee Conduct Protected Under the National Labor Relations Act
 
 ## NLRA Preemption
 
@@ -27,8 +27,6 @@ Why it doesn't apply to NCPPA.[^preemption3]
 
 Accordingly, if an employer sues an employee under the NCPPA or other state data trespass law, based on workplace recording or other conduct arguably protected under the NLRA, the claim will be preempted.[^preemption4] A state court may not decide whether the conduct is indeed protected, as that question is within the exclusive original jurisdiction of the NLRB.[^preemption4a] Rather, as long as there is any colorable argument for NLRA protection, the state court should dismiss (or stay its proceedings pending a decision by the NLRB).[^preemption4b] 
 
-
-
 ### Procedure for Asserting Preemption 
 
 "A claim of Garmon preemption is a claim that the state court has no power to adjudicate the subject matter of the case, and when a claim of Garmon preemption is raised, it must be considered and resolved by the state court."[^preemption5] Federal courts also lack subject matter jurisdiction over claims within the NLRB's primary jurisdiction.[^preemption5a] Accordingly, Garmon preemption is not a basis for removal.[^preemption5b] But, since Garmon preemption is a question of federal law, "if the state court errs in determining whether Garmon principles deprive it of jurisdiction over a dispute, review of that decision may be had in the Supreme Court."[^preemption5c]
@@ -41,7 +39,6 @@ Alternatively, the employee may bring an action in federal court seeking declara
 ## Preemption Under Other Federal Employment Laws
 
 Admissibility in agency actions and employee suits of recordings made or evidence otherwise collected without the employer's permission. The Wyoming statutes state that data collected in violation of those statutes is inadmissible in any proceeding. ANY OTHER AG-GAG STATUTES HAVE SIMILAR PROVISIONS? Even without such an explicit exlusionary provision, other ag-gag and data trespass statutes would have the practical effect of deterring employees from using unauthorized workplace recordings as evidence of employment law violations and subjecting them to criminal or civil liability for doing so. 
-
 
 [^preemption1]: @Garmon1959 [p. 244]. Federal law may also preempt state regulation of "conduct neither protected by § 7 nor prohibited by § 8," where "Congress intended [it] to be 'unrestricted by Any governmental power to regulate' because it was among the permissible 'economic weapons in reserve, . . . actual exercise (of which) on occasion by the parties, is part and parcel of the system that the Wagner and Taft-Hartley Acts have recognized.'" @MachinistsWisconsinEmployment1976 [p. 141] (citation omitted)
 
