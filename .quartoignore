@@ -1,0 +1,6 @@
+LICENSE
+.github/
+.gitignore
+/.pdf
+templates/*.md
+.obsidian/
