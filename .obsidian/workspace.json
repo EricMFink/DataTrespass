@@ -153,6 +153,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "iconic:Open rulebook": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "media-extended:Open media": false,
+      "image-picker:Open Image Picker": false,
+      "file-cleaner-redux:Clean files": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,6 +173,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "385240011d0a8baf",
-  "lastOpenFiles": []
+  "active": "21902cefa8a6d0ce",
+  "lastOpenFiles": [
+    "drafts/presentation.revealjs.htm",
+    "drafts/preemption.md",
+    "drafts/pca.md",
+    "drafts/main-yaml.md",
+    "drafts/ncppa.md",
+    "drafts/introduction.md",
+    "drafts/conclusion.md",
+    "drafts/Workers Un-Gagged.pdf",
+    "drafts/Workers Un-Gagged.docx",
+    "drafts"
+  ]
 }
