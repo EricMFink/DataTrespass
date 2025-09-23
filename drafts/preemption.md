@@ -27,6 +27,40 @@ Why it doesn't apply to NCPPA.[^preemption3]
 
 Accordingly, if an employer sues an employee under the NCPPA or other state data trespass law, based on workplace recording or other conduct arguably protected under the NLRA, the claim will be preempted.[^preemption4] A state court may not decide whether the conduct is indeed protected, as that question is within the exclusive original jurisdiction of the NLRB.[^preemption4a] Rather, as long as there is any colorable argument for NLRA protection, the state court should dismiss (or stay its proceedings pending a decision by the NLRB).[^preemption4b] 
 
+_Hartman Bros. Heating & Air Conditioning v. NLRB_, 280 F.3d 1110  (7th Cir. 2002)
+
+- State statue making knowing & intentional making false or misleading statements in job application was preempted as applied to union salt.
+
+*Establishing preemption*
+
+
+Wright Electric v. Ouellette (Minn Ct App 2004)
+
+- Employer's claims, including fraud & unauthorized use of property, against former employee & union were preempted, where they were based on employee's false statements in job application. 
+- Employee's conduct, as part of union salting effort, was arguably protected under the NLRA. 
+- Fact that the Board declined to issue a complaint on ULP charge of over firing did not necessarily indicate Board's conclusion that conduct was unprotected. Court cites San Diego Building Trades Council
+
+
+### Effect of Preemption 
+
+
+*Preemption deprives state court of jurisdiction*
+
+_Longshoremen v. Davis_, 476 US 380, 398-99 (1986)
+
+- Garmon preemption deprives the state court of jurisdiction, and is thus not waivable. 
+- Court rejects argument that “the mere lack of a conclusive determination by the Board that an activity is without the purview of the Act renders that activity arguably subject to the Act.”
+- Instead, “the party asserting pre-emption must make an affirmative showing that the activity is arguably subject to the Act”. 
+
+*No removal based on preemption*
+
+
+_Ethridge v. Harbor House Restaurant,_ 861 F. 2d 1389,  1399 (9th Circuit 1988)
+
+- A preempted suit is not removable, because exclusive original jurisdiction is in the NLRB, not federal district courts.
+
+>  the _Garmon_ analysis is not one to be undertaken by the lower federal courts. "A claim of _Garmon_ pre-emption is a claim that the state court has no power to adjudicate the subject matter of the case, and when a claim of _Garmon_-preemption is raised, _it must be considered and resolved by the state court._" _Id._ at 393, 106 S.Ct. at 1913 (emphasis added). If the state court errs in determining whether _Garmon_ principles deprive it of jurisdiction over a dispute, review of that decision may be had in the Supreme Court. _See, e.g.,_ _Davis,_ 476 U.S. at 388-89, 106 S.Ct. at 1911 (concluding that _Garmon_-preemption always supplies a federal question for the Court to review on appeal); _cf._ _Franchise Tax Bd.,_ 463 U.S. at 12 n. 12, 103 S.Ct. at 2848 n. 12.
+
 ### Procedure for Asserting Preemption 
 
 "A claim of Garmon preemption is a claim that the state court has no power to adjudicate the subject matter of the case, and when a claim of Garmon preemption is raised, it must be considered and resolved by the state court."[^preemption5] Federal courts also lack subject matter jurisdiction over claims within the NLRB's primary jurisdiction.[^preemption5a] Accordingly, Garmon preemption is not a basis for removal.[^preemption5b] But, since Garmon preemption is a question of federal law, "if the state court errs in determining whether Garmon principles deprive it of jurisdiction over a dispute, review of that decision may be had in the Supreme Court."[^preemption5c]
@@ -34,6 +68,20 @@ Accordingly, if an employer sues an employee under the NCPPA or other state data
 However, the employee may obtain more immediate relief from the NLRB or a federal court. It is an unfair labor practice for an employer to maintain a preempted suit against an employee or union for protected concerted activity. [^preemption6] Accordingly, an employee faced with such a suit may file an unfair labor practice charge with the NLRB, which may then order the employer to seek dismissal or a stay (pending the NLRB's disposition of the unfair labor practice charge) of the state court action.[^preemption6a] The NLRB may also bring an action in a federal district court seeking an injunction for that purpose.[^preemption6b] 
 
 Alternatively, the employee may bring an action in federal court seeking declaratory and injunctive relief to block the state court action.[^preemption7] BUT DO THE ANTI-INJUNCTION ACT OR YOUNGER ABSTENTION APPLY WHERE A PRIVATE PARTY SEEKS TO ENJOIN A PREEMPTED STATE COURT SUIT, RATHER THAN A STATE ADMINISTRATIVE PROCEEDING (AS IN Bud Antle)? 
+
+
+*Remedies for preempted suit*
+
+_Injunction_
+
+_Bill Johnson's_, fn 5
+
+- Exception to normal rule that injunction  against pending state court suit requires both retaliatiry motive & lack of good faith basis. 
+- If suit is completely preempted, Federal court, upon request by the Board, may enjoin proceeding. See NLRB v. Nash Finch, 404 U.S. 138 (1971)
+
+_ULP Charge _
+
+Manno Elec. (NLRB 1996)
 
 
 ## Preemption Under Other Federal Employment Laws
