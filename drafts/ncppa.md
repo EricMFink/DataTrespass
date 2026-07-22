@@ -33,17 +33,11 @@ THE LEGISLATURE CAN ADOPT A STATUTORY CAUSE OF ACTION WHERE NONE EXISTS AT COMMO
 
 In the context of employee suits for wrongful discharge, North Carolina courts have recognized employee disloyalty as valid grounds to fire an employee.[^NCPPA14] But those cases do not clearly establish that there is any employee duty of loyalty under North Carolina law, absent the special circumstances required for a fiduciary relationship. In an at-will employment regime, the employer needs no reason at all to fire an employee. In a wrongful discharge suit, the only significance of an employee's disloyalty is as evidence that the termination did not fall within any of the recognized exceptions to the at-will rule. 
 
-
-
-
 _What does "a bona fide intent of seeking or holding employment or doing business with the employer" mean? Does "a reason other than a bona fide intent ..." mean only where the employee lacks any bona fide intent, or does it also include situations where the employee has mixed motives?_
-
 
 Subsection (b)(3) does not explicitly identify the class of persons who may be liable; but the fact that it prohibits the placement of unattended cameras or recording devices "on the employer's premises" implies that its application is limited to employees.[^NCPPA30] Subsections (b)(4) & (5), which restrict neither the class of potentially liable persons nor the owner or operator of the premises, would include employee conduct on an employer's premises.[^NCPPA31]
 
-
 There have been a handful of suits brought under the North Carolina and Arkansas statutes. Most of these arise from alleged misappropriation of trade secrets or other proprietary information by the plaintiff's former employee of who went to work for a competitor.[^NCPPA40] None involve protected concerted activity by employees under NLRA sec. 7. 
-
 
 [^NCPPA1]: @NCPropertyProtectionAct2016 [].
 
@@ -64,7 +58,6 @@ There have been a handful of suits brought under the North Carolina and Arkansas
 [^NCPPA1c]: 
 
 [^NCPPA14]: @Dalton_Camp2001 [].
-
 
 [^NCPPA30]: See @PETAvStein2023-4thCir [p. x]. 
 
