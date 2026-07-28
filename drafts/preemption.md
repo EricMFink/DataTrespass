@@ -69,34 +69,32 @@ However, the employee may obtain more immediate relief from the NLRB or a federa
 
 Alternatively, the employee may bring an action in federal court seeking declaratory and injunctive relief to block the state court action.[^preemption7] BUT DO THE ANTI-INJUNCTION ACT OR YOUNGER ABSTENTION APPLY WHERE A PRIVATE PARTY SEEKS TO ENJOIN A PREEMPTED STATE COURT SUIT, RATHER THAN A STATE ADMINISTRATIVE PROCEEDING (AS IN Bud Antle)? 
 
-
 *Remedies for preempted suit*
 
 _Injunction_
 
 _Bill Johnson's_, fn 5
 
-- Exception to normal rule that injunction  against pending state court suit requires both retaliatiry motive & lack of good faith basis. 
+- Exception to normal rule that injunction  against pending state court suit requires both retaliatory motive & lack of good faith basis. 
 - If suit is completely preempted, Federal court, upon request by the Board, may enjoin proceeding. See NLRB v. Nash Finch, 404 U.S. 138 (1971)
 
 _ULP Charge _
 
 Manno Elec. (NLRB 1996)
 
-
 ## Preemption Under Other Federal Employment Laws
 
-Admissibility in agency actions and employee suits of recordings made or evidence otherwise collected without the employer's permission. The Wyoming statutes state that data collected in violation of those statutes is inadmissible in any proceeding. ANY OTHER AG-GAG STATUTES HAVE SIMILAR PROVISIONS? Even without such an explicit exlusionary provision, other ag-gag and data trespass statutes would have the practical effect of deterring employees from using unauthorized workplace recordings as evidence of employment law violations and subjecting them to criminal or civil liability for doing so. 
+_Admissibility in agency actions and employee suits of recordings made or evidence otherwise collected without the employer's permission. The Wyoming statutes state that data collected in violation of those statutes is inadmissible in any proceeding. ANY OTHER AG-GAG STATUTES HAVE SIMILAR PROVISIONS? Even without such an explicit exlusionary provision, other ag-gag and data trespass statutes would have the practical effect of deterring employees from using unauthorized workplace recordings as evidence of employment law violations and subjecting them to criminal or civil liability for doing so. _
 
-[^preemption1]: @Garmon1959 [p. 244]. Federal law may also preempt state regulation of "conduct neither protected by § 7 nor prohibited by § 8," where "Congress intended [it] to be 'unrestricted by Any governmental power to regulate' because it was among the permissible 'economic weapons in reserve, . . . actual exercise (of which) on occasion by the parties, is part and parcel of the system that the Wagner and Taft-Hartley Acts have recognized.'" @MachinistsWisconsinEmployment1976 [p. 141] (citation omitted)
+[^preemption1]: @SanDiegoBuildingTrades_US1959 [p. 244]. Federal law may also preempt state regulation of "conduct neither protected by § 7 nor prohibited by § 8," where "Congress intended [it] to be 'unrestricted by Any governmental power to regulate' because it was among the permissible 'economic weapons in reserve, ... actual exercise (of which) on occasion by the parties, is part and parcel of the system that the Wagner and Taft-Hartley Acts have recognized.'" @MachinistsWisconsinEmploymentRelations_US1976 [p. 141] (citation omitted)
 
-[^preemption1a]: @BrownHotelRestaurant1984 [p. 501]
+[^preemption1a]: @BrownHotelRestaurantEmployees_US1984 [p. 501]
 
-[^preemption1b]: @MachinistsWisconsinEmployment1976 [p. 138] (citations omitted).
+[^preemption1b]: @MachinistsWisconsinEmploymentRelations_US1976 [p. 138] (citations omitted).
 
-[^preemption2]: @Garmon1959 [p. 243-44]. 
+[^preemption2]: @SanDiegoBuildingTrades_US1959 [p. 243-44]. 
 
-[^preemption2b]: @BrownHotelRestaurant1984 [p. 503] (citation omitted). 
+[^preemption2b]: @BrownHotelRestaurantEmployees_US1984 [p. 503] (citation omitted). 
 
 [^preemption3]: 
 
@@ -106,16 +104,16 @@ Admissibility in agency actions and employee suits of recordings made or evidenc
 
 [^preemption4b]: 
 
-[^preemption5]: International Longshoremen's Ass'n. v. Davis, 476 US 380, 393 (1986)
+[^preemption5]: @InternationalLongshoremensAssnDavis_US1986 [393].
 
-[^preemption5b]: @BudAntleInc1994 [].
+[^preemption5b]: @BudAntleIncBarbosa_9thCir1994 [].
 
-[^preemption5c]: @BudAntleInc1994 [p. 1269], quoting Ethridge v. Harbor House Restaurant, 861 F. 2d 1389, 1399 (1988)
+[^preemption5c]: @BudAntleIncBarbosa_9thCir1994 [p. 1269], quoting @EthridgeHarborHouseRestaurant_9thCir1988 [1399].
 
-[^preemption6]: @CanAmPlumbingInc2003 [p. 151]; @AssociatedBuildingContractors2000 []; @MannoElecInc1996 [].
+[^preemption6]: @CanAmPlumbingIncNLRB_DCCir2003 [p. 151]; @AssociatedBuildingContractorsInc_NLRB2000 []; @MannoElecInc_NLRB1996 [].
 
 [^preemption6a]: 
 
-[^preemption6b]: @CanAmPlumbingInc2003 [p. 151], citing @BillJohnsonRestaurants1983 [p. 744]; @NLRBNashFinchCo1971 [p. 144].
+[^preemption6b]: @CanAmPlumbingIncNLRB_DCCir2003 [p. 151], citing @BillJohnsonsRestaurantsInc_US1983 [p. 744]; @NLRBNashFinchCo_US1971 [p. 144].
 
-[^preemption7]: @BudAntleInc1994 [] (holding employer may obtain declaratory and injunctive relief in federal court against pending state administrative agency proceeding).
+[^preemption7]: @BudAntleIncBarbosa_9thCir1994 [] (holding employer may obtain declaratory and injunctive relief in federal court against pending state administrative agency proceeding).

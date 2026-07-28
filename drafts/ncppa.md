@@ -27,7 +27,7 @@ Statute does not define the employee's "duty of loyalty". This is a significant 
 
 The legislative sponsor of the NCPPA explained that the purpose was to codify the holding in Food Lion.[^NCPPA11] That case arose out of a television news exposé in which reporters, working for the show's producers, obtained jobs at Food Lion stores and used hidden cameras to record such practices as the bleaching and relabelling of past-date foods.[^NCPPA12]  Food Lion asserted tort claims against the reporters for breach of loyalty, and the federal court concluded that North Carolina law would recognize such a claim by an employer against an employee.[^NCPPA12b] 
 
-However, the North Carolina Supreme Court subsequently opined that the federal court in Food Lion had misinterpreted state law.[^NCPPA13] NC LAW RECOGNIZES CLAIM WHERE THERE IS A FIDUCIARY RELATIONSHIP.[^NCPPA13b] But the Court declined to recognize such a claim in an ordinary employment relationship.[^NCPPA1c].
+However, the North Carolina Supreme Court subsequently opined that the federal court in Food Lion had misinterpreted state law.[^NCPPA13] NC LAW RECOGNIZES CLAIM WHERE THERE IS A FIDUCIARY RELATIONSHIP.[^NCPPA13b] But the Court declined to recognize such a claim in an ordinary employment relationship.[^NCPPA13c].
 
 THE LEGISLATURE CAN ADOPT A STATUTORY CAUSE OF ACTION WHERE NONE EXISTS AT COMMON LAW. BUT THERE IS STILL A PROBLEM. SECTIONS (b)(1) and (2) MAKE BREACH OF THE EMPLOYEE'S DUTY OF LOYALTY AN ELEMENT OF LIABILITY. BUT THIS ASSUMES THAT SUCH A DUTY IS ALREADY ESTABLISHED UNDER NC LAW. THAT'S NOT CLEAR. 
 
@@ -43,24 +43,24 @@ There have been a handful of suits brought under the North Carolina and Arkansas
 
 [^NCPPA2]: @NCPropertyProtectionAct2016 [sec. (b)]. 
 
-[^NCPPA10]: @Dalton_Camp2001 [p. 653, 708]; @AustinMaintenance2012 [].
+[^NCPPA10]: @DaltonCamp_NC2001 [p. 653, 708]; @AustinMaintenanceCrowderConstruction_NCCtApp2012 [].
 
-[^NCPPA11]: CITE TO PETA v. STEIN. 
+[^NCPPA11]: See @PETAvFarmBureau_4thCir2023 []. 
 
-[^NCPPA12]: @FoodLion1999-4thCir []. 
+[^NCPPA12]: @FoodLionIncCapital_4thCir1999 []. 
 
-[^NCPPA12b]: @FoodLion1999-4thCir []. 
+[^NCPPA12b]: @FoodLionIncCapital_4thCir1999 []. 
 
-[^NCPPA13]: @Dalton_Camp2001 [].
+[^NCPPA13]: @DaltonCamp_NC2001 [].
 
-[^NCPPA13b]: @Dalton_Camp2001 [].
+[^NCPPA13b]: @DaltonCamp_NC2001 [].
 
-[^NCPPA1c]: 
+[^NCPPA13c]: @DaltonCamp_NC2001 [].
 
-[^NCPPA14]: @Dalton_Camp2001 [].
+[^NCPPA14]: @DaltonCamp_NC2001 [].
 
-[^NCPPA30]: See @PETAvStein2023-4thCir [p. x]. 
+[^NCPPA30]: See @PETAvFarmBureau_4thCir2023 [p. x]. 
 
-[^NCPPA31]: § 99A-2(b)(4) (Organized retail theft) would not apply to any employee conduct protected under the NLRA and thus raises no issue of federal preemption. 
+[^NCPPA31]: @NCPropertyProtectionAct2016. § 99A-2(b)(4) (Organized retail theft) would not apply to any employee conduct protected under the NLRA and thus raises no issue of federal preemption. 
 
-[^NCPPA40]: @TuckerAutoMation2017 []; @TimberAutomation-WDArk-2020 [] (complaint filed Aug. 25, 2022); @ArkansasLabelingInc-EDArk [] (complaint filed Jan. 6, 2020). Another pending suit does not arise out of an employment relationship at all, but from alleged fraud in connection with a business asset purchase agreement. @PulaskiCountyMedicalExchange2022 [(granting preliminary injunction)]. 
+[^NCPPA40]: @TuckerAutoMation_Complaint2017 []2017 []; @TimberAutomation_Complaint2020 []2020 [] (complaint filed Aug. 25, 2022); @ArkansasLabeling_Complaint2020 [] (complaint filed Jan. 6, 2020). Another pending suit does not arise out of an employment relationship at all, but from alleged fraud in connection with a business asset purchase agreement. @PulaskiCountyMedicalExchange_EDArk2022 [(granting preliminary injunction)]. 
