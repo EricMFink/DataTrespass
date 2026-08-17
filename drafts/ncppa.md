@@ -37,7 +37,7 @@ _What does "a bona fide intent of seeking or holding employment or doing busines
 
 Subsection (b)(3) does not explicitly identify the class of persons who may be liable; but the fact that it prohibits the placement of unattended cameras or recording devices "on the employer's premises" implies that its application is limited to employees.[^NCPPA30] Subsections (b)(4) & (5), which restrict neither the class of potentially liable persons nor the owner or operator of the premises, would include employee conduct on an employer's premises.[^NCPPA31]
 
-There have been a handful of suits brought under the North Carolina and Arkansas statutes. Most of these arise from alleged misappropriation of trade secrets or other proprietary information by the plaintiff's former employee of who went to work for a competitor.[^NCPPA40] None involve protected concerted activity by employees under NLRA sec. 7. 
+There have been a handful of suits brought under the North Carolina and Arkansas statutes. Most of these arise from alleged misappropriation of trade secrets or other proprietary information by former employees who went to work for a competitor.[^NCPPA40] None involved protected concerted activity by employees under NLRA sec. 7. 
 
 [^NCPPA1]: @NCPropertyProtectionAct2016 [].
 
@@ -63,4 +63,4 @@ There have been a handful of suits brought under the North Carolina and Arkansas
 
 [^NCPPA31]: @NCPropertyProtectionAct2016. § 99A-2(b)(4) (Organized retail theft) would not apply to any employee conduct protected under the NLRA and thus raises no issue of federal preemption. 
 
-[^NCPPA40]: @TuckerAutoMation_Complaint2017 []2017 []; @TimberAutomation_Complaint2020 []2020 [] (complaint filed Aug. 25, 2022); @ArkansasLabeling_Complaint2020 [] (complaint filed Jan. 6, 2020). Another pending suit does not arise out of an employment relationship at all, but from alleged fraud in connection with a business asset purchase agreement. @PulaskiCountyMedicalExchange_EDArk2022 [(granting preliminary injunction)]. 
+[^NCPPA40]: @TuckerAutoMationNorthCarolina_MDNC2017 (dismissing NCPPA claim based on acts occurring prior to statute’s effective date); @TimberAutomationLLCFiberPro_WDArk2020 - former employees accessed and downloaded electronic business data from employer’s computer system without authorization as part of scheme to engage in competing business; @ArkansasLabelingIncProctor_EDArk2020a - Same(?); @CheyTacIncKnesek_ArkCirCt2022 - Industrial espionage by employees of competitor(?); @PulaskiCountyMedicalExchange_EDArk2022 - no employment relationship; alleged fraud in connection with a business asset purchase agreement.
