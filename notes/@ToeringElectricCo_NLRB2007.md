@@ -1,7 +1,7 @@
 ---
-citekey: AerotekIncNLRB_8thCir2018
-title: Aerotek, Inc. v. N.L.R.B.
-year: 2018
+citekey: ToeringElectricCo_NLRB2007
+title: Toering Electric Co.
+year: 2007
 collection: DataTrespass 
 tags: ObsCite, protected-concerted-activity, unions, labor-organizing, salting
 cssclasses: ["zotero"]
@@ -9,7 +9,7 @@ created: 2025-07-14
 modified: 2025-10-11
 ---
 
-1. Aerotek, Inc. v. N.L.R.B., 883 F.3d 725 (8th Cir. 2018).
+1. Toering Electric Co., 351 N.L.R.B. 225 (N.L.R.B. 2007).
 
 ### Persistent Notes
 
@@ -22,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2026-08-22T16:55:05.071-04:00 %%
+%% Import Date: 2026-08-22T16:55:05.685-04:00 %%
