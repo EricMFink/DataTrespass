@@ -14,7 +14,7 @@
   "exportFormats": [
     {
       "name": "Zotero Research Notes",
-      "outputPathTemplate": "notes/{{tags[0].tag}}/{{citekey}}.md",
+      "outputPathTemplate": "notes/{{collections[0].name}}/@{{citekey}}.md",
       "imageOutputPathTemplate": "assets/img/{{citekey}}",
       "imageBaseNameTemplate": "img",
       "templatePath": "assets/templates/zotero-notes.md",
