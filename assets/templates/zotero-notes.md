@@ -1,14 +1,18 @@
 ---
 citekey: {{citationKey}}
-title: {% if caseName %}{{caseName}}{% elif nameOfAct %}{{nameOfAct}}{% else %}"{{title}}"{% endif %}{% if date %}
-year: {{date | format("YYYY")}}{% endif %}{% if authors %}
-authors: {{authors}}{% endif %}
+title: {% if caseName %}{{caseName}}{% elif nameOfAct %}{{nameOfAct}}{% else %}{{title}}{% endif %}
+author: {% if court %}{{court}}{% else %}{{authors}}{% endif %}
+year: {{date | format("YYYY")}}
+type: {{itemType}}
 collection: {{collections[0].fullPath}} 
-tags: {% if allTags %}{{allTags}}{% endif %}
-cssclasses: ["zotero"]
+tags: [{% if allTags %}{{allTags}}{% endif %}]
 created: 2025-07-14
 modified: 2026-08-22
 ---
+
+{{bibliography}}
+
+{{pdfZoteroLink}}
 
 ## Notes
 

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1937dd17fdaf9700",
+        "id": "2f0b77eeeb00d41e",
         "type": "tabs",
         "children": [
           {
-            "id": "1cbfb45e59fc92bb",
+            "id": "ff01a63e6a5174c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes Index.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notes Index"
             }
           }
         ]
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 301.5
   },
   "right": {
     "id": "7e1314546b4d1164",
@@ -173,42 +177,41 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "1cbfb45e59fc92bb",
+  "active": "ff01a63e6a5174c1",
   "lastOpenFiles": [
+    "assets/templates/zotero-notes.md",
+    "notes/Loyalty/@Aaron1998.md",
+    "notes/Loyalty/@NLRBElectricalWorkers_US1953.md",
+    "notes/Loyalty/@MotorCityPawnBrokers_NLRB2020.md",
+    "notes/Loyalty/@MiklinEnterprisesIncNLRB_8thCir2016.md",
+    "notes/Loyalty/@Matheny2004.md",
+    "notes/Loyalty/@FoodLionIncCapital_MDNC1996.md",
+    "notes/Loyalty/@FoodLionIncCapital_4thCir1999.md",
+    "notes/Loyalty/@Finkin2007.md",
+    "notes/Loyalty/@EmployeeDutyLoyalty2015.md",
+    "notes/Loyalty/@DaltonCamp_NC2001.md",
+    "notes/Loyalty/@Branscomb1993.md",
+    "notes/Loyalty/@AustinMaintenanceCrowderConstruction_NCCtApp2012.md",
+    "notes/Loyalty",
+    "Notes Index.md",
+    "notes/Ag-Gag/@AlabamaAgGag2002.md",
+    "notes/Ag-Gag/@WyomingCriminalTrespass2015.md",
+    "notes/Ag-Gag/@WyomingCivilTrespass2015.md",
     "notes/Ag-Gag/@Wright2024.md",
-    "notes/Ag-Gag/@Sanders2022.md",
-    "notes/Ag-Gag/@Sanders2019.md",
-    "notes/Ag-Gag/@Regenstreif2022.md",
-    "notes/Ag-Gag/@NationalAgriculturalLawCenter2021.md",
-    "notes/Ag-Gag/@Derron2022.md",
-    "notes/Ag-Gag/@Crocker2022.md",
-    "notes/Ag-Gag/@Cooley2019.md",
-    "notes/Ag-Gag/@CenterforConstitutionalRights2017.md",
-    "notes/Ag-Gag/@ArkansasDataTrespass2017.md",
-    "notes/Ag-Gag/@ALDFWasdenIdahoLaborAmicus2016.md",
-    "notes/Ag-Gag/@ALDFWasdenFarmworkersAmicus2016.md",
+    "notes/Ag-Gag/@WesternWatershedsProjectMichael_DWyo2018.md",
+    "notes/Ag-Gag/@WesternWatershedsProjectMichael_DWyo2016.md",
+    "notes/Ag-Gag/@WesternWatershedsProjectMichael_10thCir2017.md",
+    "notes/Ag-Gag/@UtahAgTrespass2023.md",
+    "notes/Ag-Gag/@UtahAgriculturalOperation2023.md",
+    "notes/Ag-Gag/@TimberAutomationLLCFiberPro_WDArk2020.md",
+    "notes/Ag-Gag/@Solomon2016.md",
     "notes/Ag-Gag",
-    "notes/NCPPA/@TuckerAutoMationNorthCarolina_MDNC2017.md",
-    "notes/NCPPA/@Sorg2023a.md",
-    "notes/NCPPA/@Sorg2023.md",
-    "notes/NCPPA/@PETAvFarmBureau_4thCir2023.md",
-    "notes/NCPPA/@PETASteinLawProfessorsAmicus2021.md",
-    "notes/NCPPA/@PETASteinFarmWorkersAmicus2021.md",
-    "notes/NCPPA/@NCPropertyProtectionAct2016.md",
-    "notes/NCPPA/@Ashcraft2021.md",
-    "notes/NCPPA",
-    "notes/Agricultural Employees/@SandersonFarmsIncNLRB_5thCir2003.md",
-    "notes/Agricultural Employees/@NLRBMontereyCountyTrades_9thCircuit1953.md",
-    "notes/Agricultural Employees/@NLRBCalMaineFarmsInc_5thCircuit1993.md",
-    "notes/Agricultural Employees/@ManejaWaialuaAgriculturalCo_US1955.md",
-    "notes/Agricultural Employees/@HollyFarmsCorpNLRB_US1966.md",
-    "notes/Agricultural Employees/@BaysideEnterprisesIncNLRB_US1977.md",
     "notes/Agricultural Employees",
+    "notes/NCPPA",
     "notes/Salting",
     "notes/Recording",
     "notes/PCA",
     "notes/Preemption",
-    "notes/Loyalty",
     "notes/DataTrespass",
     "notes/agricultural-employees",
     "assets/scripts/zotero-scripts-main/zotero-text-case/doc/zotero_version.png",

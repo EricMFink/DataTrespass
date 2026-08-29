@@ -1,13 +1,19 @@
 ---
 citekey: AustinMaintenanceCrowderConstruction_NCCtApp2012
 title: Austin Maint. v. Crowder Const.
+author: N.C. Ct. App.
 year: 2012
+type: case
 collection: DataTrespass/Loyalty 
-tags: employee-loyalty
+tags: [ObsCite, employee-loyalty]
 cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2026-08-22
 ---
+
+1. Austin Maint. v. Crowder Const., 742 S.E.2d 535 (N.C. Ct. App. 2012).
+
+[PDF](zotero://select/library/items/D8ZBDDSP)
 
 ## Notes
 
@@ -20,4 +26,4 @@ modified: 2026-08-22
 
 
 
-%% Import Date: 2026-08-24T23:14:43.780-04:00 %%
+%% Import Date: 2026-08-26T20:07:32.110-04:00 %%

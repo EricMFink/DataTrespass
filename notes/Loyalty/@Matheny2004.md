@@ -1,14 +1,22 @@
 ---
 citekey: Matheny2004
-title: "Disloyal Workers and the Un-American Labor Law"
+title: Disloyal Workers and the Un-American Labor Law
+author: Ken Matheny, Marion Crain
 year: 2004
-authors: Ken Matheny, Marion Crain
-collection: DataTrespass/Loyalty 
-tags: employee-loyalty
-cssclasses: ["zotero"]
+type: journalArticle
+collection: DataTrespass/Loyalty
+tags:
+  - ObsCite
+  - employee-loyalty
+cssclasses:
+  - zotero
 created: 2025-07-14
-modified: 2026-08-22
+modified: 2026-08-26
 ---
+
+1. Ken Matheny & Marion Crain, _Disloyal Workers and the Un-American Labor Law_, 82 N.C. L. Rev. 1705 (2004).
+
+[@Matheny2004.pdf](zotero://select/library/items/Y4SPXYT7)
 
 ## Notes
 
@@ -87,4 +95,4 @@ modified: 2026-08-22
 
 
 
-%% Import Date: 2026-08-24T23:14:43.809-04:00 %%
+%% Import Date: 2026-08-26T20:07:32.196-04:00 %%

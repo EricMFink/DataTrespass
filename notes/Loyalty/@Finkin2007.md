@@ -1,14 +1,19 @@
 ---
 citekey: Finkin2007
-title: "Disloyalty! Does Jefferson Standard Stalk Still?"
+title: Disloyalty! Does Jefferson Standard Stalk Still?
+author: Matthew W. Finkin
 year: 2007
-authors: Matthew W. Finkin
+type: journalArticle
 collection: DataTrespass/Loyalty 
-tags: employee-loyalty
+tags: [ObsCite, employee-loyalty]
 cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2026-08-22
 ---
+
+1. Matthew W. Finkin, _Disloyalty! Does Jefferson Standard Stalk Still?_, 28 Berkeley J. Emp. & Lab. L. 541 (2007).
+
+[@Finkin2007.pdf](zotero://select/library/items/4JBALYX3)
 
 ## Notes
 
@@ -87,4 +92,4 @@ modified: 2026-08-22
 
 
 
-%% Import Date: 2026-08-24T23:14:43.797-04:00 %%
+%% Import Date: 2026-08-26T20:07:32.137-04:00 %%

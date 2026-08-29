@@ -44,7 +44,7 @@
       "yaml-keys-to-remove": ""
     },
     "sort-yaml-array-values": {
-      "enabled": true,
+      "enabled": false,
       "sort-alias-key": true,
       "sort-tag-key": true,
       "sort-array-keys": true,
@@ -52,13 +52,13 @@
       "sort-order": "Ascending Alphabetical"
     },
     "yaml-key-sort": {
-      "enabled": true,
-      "yaml-key-priority-sort-order": "citekey\ntitle\nsubtitle\nauthor\nauthors\naffiliation\ncite\ndate\nyear\ncollection\ncssclasses\nsource\nurl\ncreated\nmodified\ntags",
+      "enabled": false,
+      "yaml-key-priority-sort-order": "",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
-      "enabled": true,
+      "enabled": false,
       "date-created": true,
       "date-created-key": "created",
       "date-created-source-of-truth": "file system",

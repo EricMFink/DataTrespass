@@ -32,6 +32,15 @@
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {
+    "author": {
+      "icon": "lucide-user-round-pen"
+    },
+    "citekey": {
+      "icon": "lucide-key-round"
+    },
+    "collection": {
+      "icon": "lucide-library-big"
+    },
     "created": {
       "icon": "lucide-calendar"
     },
@@ -40,6 +49,12 @@
     },
     "source": {
       "icon": "link"
+    },
+    "title": {
+      "icon": "lucide-book-type"
+    },
+    "type": {
+      "icon": "lucide-book-open-text"
     },
     "url": {
       "icon": "link"

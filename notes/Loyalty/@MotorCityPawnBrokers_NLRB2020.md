@@ -1,14 +1,23 @@
 ---
 citekey: MotorCityPawnBrokers_NLRB2020
 title: Motor City Pawn Brokers, Inc.
+author: N.L.R.B.
 year: 2020
+type: case
 collection: DataTrespass/Loyalty
-tags: employee-loyalty, employer-rules
+tags:
+  - ObsCite
+  - employee-loyalty
+  - employer-rules
 cssclasses:
   - zotero
 created: 2025-07-14
-modified: 2026-08-24
+modified: 2026-08-26
 ---
+
+1. Motor City Pawn Brokers, Inc., 369 N.L.R.B. No. 132 (N.L.R.B. 2020).
+
+[@MotorCityPawnBrokers_NLRB2020.pdf](zotero://select/library/items/QF98QT4S)
 
 ## Notes
 
@@ -297,4 +306,4 @@ modified: 2026-08-24
 
 
 
-%% Import Date: 2026-08-24T23:14:43.826-04:00 %%
+%% Import Date: 2026-08-26T20:07:32.226-04:00 %%

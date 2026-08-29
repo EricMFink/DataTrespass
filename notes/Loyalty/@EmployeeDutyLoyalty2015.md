@@ -1,13 +1,22 @@
 ---
 citekey: EmployeeDutyLoyalty2015
-title: "Employee Duty of Loyalty to the Employer"
+title: Employee duty of loyalty to the employer
+author:
 year: 2015
-collection: DataTrespass/Loyalty 
-tags: employee-loyalty
-cssclasses: ["zotero"]
+type: standard
+collection: DataTrespass/Loyalty
+tags:
+  - ObsCite
+  - employee-loyalty
+cssclasses:
+  - zotero
 created: 2025-07-14
-modified: 2026-08-22
+modified: 2026-08-26
 ---
+
+1. _Employee Duty of Loyalty to the Employer_, (2015).
+
+[@EmployeeDutyLoyalty2015.pdf](zotero://select/library/items/MVE27JN2)
 
 ## Notes
 
@@ -20,4 +29,4 @@ modified: 2026-08-22
 
 
 
-%% Import Date: 2026-08-24T23:14:43.793-04:00 %%
+%% Import Date: 2026-08-26T20:07:32.132-04:00 %%

@@ -1,7 +1,6 @@
 [
   "date-inserter",
   "editing-toolbar",
-  "front-matter-timestamps",
   "obsidian-front-matter-title-plugin",
   "iconic",
   "image-captions",
@@ -19,5 +18,8 @@
   "file-cleaner-redux",
   "obsidian-import-json",
   "spellcheck-toggler",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "obsidian-pandoc-reference-list",
+  "dataview",
+  "front-matter-timestamps"
 ]

@@ -1,14 +1,22 @@
 ---
 citekey: Aaron1998
-title: "The Law of Employee Loyalty in the United States"
+title: The Law of Employee Loyalty in the United States
+author: Benjamin Aaron, Matthew Finkin
 year: 1998
-authors: Benjamin Aaron, Matthew Finkin
-collection: DataTrespass/Loyalty 
-tags: employee-loyalty
-cssclasses: ["zotero"]
+type: journalArticle
+collection: DataTrespass/Loyalty
+tags:
+  - ObsCite
+  - employee-loyalty
+cssclasses:
+  - zotero
 created: 2025-07-14
-modified: 2026-08-22
+modified: 2026-08-26
 ---
+
+1. Benjamin Aaron & Matthew Finkin, _The Law of Employee Loyalty in the United States_, 20 Comp. Lab. L. & Pol’y J. 321 (1998).
+
+[@Aaron1998.pdf](zotero://select/library/items/LAYZBLBX)
 
 ## Notes
 
@@ -99,4 +107,4 @@ modified: 2026-08-22
 
 
 
-%% Import Date: 2026-08-24T23:14:43.777-04:00 %%
+%% Import Date: 2026-08-26T20:07:32.102-04:00 %%
