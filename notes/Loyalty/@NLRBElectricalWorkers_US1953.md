@@ -6,14 +6,13 @@ year: 1953
 type: case
 collection: DataTrespass/Loyalty 
 tags: [ObsCite, employee-loyalty]
-cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2026-08-22
 ---
 
 1. NLRB v. Electrical Workers, 346 U.S. 464 (U.S. 1953).
 
-[@NLRBElectricalWorkers_US1953.pdf](zotero://select/library/items/7NUKH5FW)
+[@NLRBElectricalWorkers_US1953](zotero://select/library/items/7NUKH5FW)
 
 ## Notes
 
@@ -206,4 +205,4 @@ modified: 2026-08-22
 
 
 
-%% Import Date: 2026-08-26T20:07:32.233-04:00 %%
+%% Import Date: 2026-08-31T17:54:09.641-04:00 %%

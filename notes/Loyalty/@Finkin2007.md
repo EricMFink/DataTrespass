@@ -6,14 +6,13 @@ year: 2007
 type: journalArticle
 collection: DataTrespass/Loyalty 
 tags: [ObsCite, employee-loyalty]
-cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2026-08-22
 ---
 
 1. Matthew W. Finkin, _Disloyalty! Does Jefferson Standard Stalk Still?_, 28 Berkeley J. Emp. & Lab. L. 541 (2007).
 
-[@Finkin2007.pdf](zotero://select/library/items/4JBALYX3)
+[@Finkin2007](zotero://select/library/items/4JBALYX3)
 
 ## Notes
 
@@ -92,4 +91,4 @@ modified: 2026-08-22
 
 
 
-%% Import Date: 2026-08-26T20:07:32.137-04:00 %%
+%% Import Date: 2026-08-31T17:54:09.613-04:00 %%

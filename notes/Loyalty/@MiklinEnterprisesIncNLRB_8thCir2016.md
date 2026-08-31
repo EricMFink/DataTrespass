@@ -6,14 +6,13 @@ year: 2016
 type: case
 collection: DataTrespass/Loyalty 
 tags: [ObsCite, employee-loyalty]
-cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2026-08-22
 ---
 
 1. Miklin Enterprises, Inc. v. NLRB, 861 F.3d 812 (8th Cir. 2016).
 
-[@MiklinEnterprisesIncNLRB_8thCir2016.pdf](zotero://select/library/items/T5KLB8HK)
+[@MiklinEnterprisesIncNLRB_8thCir2016](zotero://select/library/items/T5KLB8HK)
 
 ## Notes
 
@@ -26,4 +25,4 @@ modified: 2026-08-22
 
 
 
-%% Import Date: 2026-08-26T20:07:32.216-04:00 %%
+%% Import Date: 2026-08-31T17:54:09.633-04:00 %%

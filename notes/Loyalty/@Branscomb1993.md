@@ -6,14 +6,13 @@ year: 1993
 type: journalArticle
 collection: DataTrespass/Loyalty 
 tags: [ObsCite, employee-loyalty]
-cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2026-08-22
 ---
 
 1. Melinda J. Branscomb, _Labor, Loyalty, and the Corporate Campaign_, 73 B.U. L. Rev. 291 (1993).
 
-[@Branscomb1993.pdf](zotero://select/library/items/4YZKAR28)
+[@Branscomb1993](zotero://select/library/items/4YZKAR28)
 
 ## Notes
 
@@ -200,4 +199,4 @@ modified: 2026-08-22
 
 
 
-%% Import Date: 2026-08-26T20:07:32.122-04:00 %%
+%% Import Date: 2026-08-31T17:54:09.602-04:00 %%
