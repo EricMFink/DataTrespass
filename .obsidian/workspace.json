@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f0b77eeeb00d41e",
+        "id": "31990b0516f796a8",
         "type": "tabs",
         "children": [
           {
-            "id": "ff01a63e6a5174c1",
+            "id": "f43d76b9fe399451",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "assets/templates/zotero-notes.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "zotero-notes"
             }
           }
         ]
@@ -138,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genealogy /Fink-Přehořov.md",
+                "file": "assets/templates/zotero-notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,11 +174,20 @@
       "media-extended:Open media quick switcher": false,
       "image-picker:Open Image Picker": false,
       "file-cleaner-redux:Clean files": false,
-      "obsidian-import-json:JSON/CSV Importer": false
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ff01a63e6a5174c1",
+  "active": "f43d76b9fe399451",
   "lastOpenFiles": [
+    "notes/Loyalty/@Aaron1998.md",
+    "notes/Loyalty",
+    "assets/templates/zotero-notes.md",
+    "notes/Salting/@AerotekIncNLRB_8thCir2018.md",
+    "notes/Ag-Gag/@AgGagAmericaCorporateBacked_CenterforConstitutionalRights2017.md",
+    "notes/Ag-Gag/@Colwell2026.md",
+    "notes/Ag-Gag/@CheyTacIncKnesek_ArkCirCt2022.md",
+    "notes/Ag-Gag/@AlabamaAgGag2002.md",
     "notes/Salting/@Walsh2016.md",
     "notes/Salting/@VanBourg1998.md",
     "notes/Salting/@Twomey2004.md",
@@ -188,7 +201,6 @@
     "notes/Salting/@FluorDanielInc_NLRB1993.md",
     "notes/Salting/@Dall2002.md",
     "notes/Salting/@ArrowFlintElectricCo_NLRB1996.md",
-    "notes/Salting/@AerotekIncNLRB_8thCir2018.md",
     "notes/Salting",
     "notes/Recording/@YouHaveRightRecord_Poulos_OnLabor2025.md",
     "notes/Recording/@StarbucksCorporation_NLRBDivofJudges2025.md",
@@ -197,18 +209,11 @@
     "notes/Recording/@EastBeldenCorp_NLRB1978.md",
     "notes/Recording",
     "notes/Preemption/@WrightElecIncOuellette_MinnCtApp2004.md",
-    "notes/Preemption/@WolfStreetSupermarketsInc_NYAppDiv1985.md",
-    "notes/Preemption/@Whistler2024.md",
-    "notes/Preemption/@WalMartStoresIncUnited_CalCtApp2016.md",
-    "notes/Preemption/@TKOFleetEnterprisesDistrict_EDNY1999.md",
-    "notes/Preemption/@SureTanIncNLRB_US1984.md",
-    "notes/Preemption/@StateDeAngelo_NJSupCtAppDiv2007.md",
     "notes/Preemption",
     "notes/PCA",
     "notes/NCPPA",
     "notes/Agricultural Employees",
     "notes/Ag-Gag",
-    "notes/Loyalty",
     "notes/DataTrespass",
     "notes/agricultural-employees",
     "assets/scripts/zotero-scripts-main/zotero-text-case/doc/zotero_version.png",

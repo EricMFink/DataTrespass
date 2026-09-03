@@ -14,5 +14,5 @@
   },
   "promptDelete": false,
   "strictLineBreaks": true,
-  "settingsPopoutWindow": false
+  "settingsPopoutWindow": true
 }

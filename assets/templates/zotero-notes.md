@@ -1,9 +1,9 @@
 ---
-citekey: {{citationKey}}
-title: {% if caseName %}{{caseName}}{% elif nameOfAct %}{{nameOfAct}}{% else %}{{title}}{% endif %}
+title: {% if caseName %}{{caseName | escape}}{% elif nameOfAct %}{{nameOfAct | escape}}{% else %}{{title | escape}}{% endif %}
 author: {% if court %}{{court}}{% else %}{{authors}}{% endif %}
 year: {{date | format("YYYY")}}
 type: {{itemType}}
+citekey: {{citationKey}}
 collection: {{collections[0].fullPath}} 
 tags: [{% if allTags %}{{allTags}}{% endif %}]
 created: 2025-07-14
