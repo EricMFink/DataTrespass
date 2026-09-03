@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "zotero-notes"
             }
+          },
+          {
+            "id": "2410f876294bbb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Loyalty/@Aaron1998.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "@Aaron1998"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/templates/zotero-notes.md",
+                "file": "notes/Loyalty/@Aaron1998.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,11 +193,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f43d76b9fe399451",
+  "active": "2410f876294bbb1b",
   "lastOpenFiles": [
+    "assets/templates/zotero-notes.md",
     "notes/Loyalty/@Aaron1998.md",
     "notes/Loyalty",
-    "assets/templates/zotero-notes.md",
     "notes/Salting/@AerotekIncNLRB_8thCir2018.md",
     "notes/Ag-Gag/@AgGagAmericaCorporateBacked_CenterforConstitutionalRights2017.md",
     "notes/Ag-Gag/@Colwell2026.md",
