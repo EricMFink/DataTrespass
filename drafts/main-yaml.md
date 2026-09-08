@@ -1,5 +1,5 @@
 ---
-modified: 2026-08-24
+modified: 2026-09-08
 path: DataTrespass/draft
 title: Workers Un-Gagged
 subtitle: Federal Labor Preemption of State Data Trespass Laws

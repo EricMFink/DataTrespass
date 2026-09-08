@@ -1,6 +1,6 @@
 ---
 section: preemption
-modified: 2025-07-08
+modified: 2026-09-08
 ---
 
 # Federal Law Preempts the NCPPA as Applied to Employee Conduct Protected Under the National Labor Relations Act
