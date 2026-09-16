@@ -40,6 +40,6 @@ This article aims to address this gap. Focusing on the NCPPA because of its expl
 
 [^Intro11]: In some cases, labor organizations have filed amicus briefs arguing that the imposition of employee liability under state ag-gag statutes would conflict with and undermine employee protections under the NLRA and other federal employment laws. See, e.g., @ALDFWasdenLaborAmicus2016; @ALDFWasdenUFWAmicus2016; @PETASteinUFWAmicus2021 []. In @ALDFWasden_9thCir2018 [], the 9th Circuit held that parts of the Idaho ag-gag statute violated the 1st Amendment, without mentioning the federal labor preemption issue. In @ALDFKelly_10thCir2021 [at n.6], the 10th Circuit explicitly declined to consider whether the Kansas ag-gag statute violated the NLRA, because the parties themselves had not presented the issue.
 
-[^Intro12]: See, e.g., @Ligon2024 []; @Wright2024 []; @Regenstreif2022 []; @Crocker2022 []; @ALDFReynoldsCaseNote2022 []; @Sanders2022 []; @Sanders2019 []; @French2019 [].
+[^Intro12]: See, e.g., @Ligon2024 []; @Wright2024 []; @Regenstreif2022 []; @Crocker2022 []; @EighthCircuitUpholds2022 []; @Sanders2022 []; @Sanders2019 []; @French2019 [].
 
 [^Intro13]: A few previous articles have addressed the threat that state data trespass laws pose to employee rights. @Sanders2022 []; @Sanders2019 []; @Cooley2019 []; @Schipani2016 []. But these focus on the First Amendment or whistleblower laws, without analyzing the issue of preemption under federal labor and employment statutes. 

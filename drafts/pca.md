@@ -21,7 +21,6 @@ Concerted activity pertaining to "terms, tenure or conditions of employment"[^PC
 
 Under current Board law, an employer's facially neutral work rule that might apply to some protected Section 7 activity does not necessarily violate Section 8(a)(1).[^PCA15] However, it is an unfair labor practice for an employer to enforce such a rule against an employee for conduct protected under Section 7.[^PCA16]
 
-
 McGinley & McGinley-Stempel, 30 Hofstra Lab. & Emp. L. J. 75 (2012)
 
 - "Making the distinction between concerted, protected activity and speech that is not concerted or protected is sometimes tricky because the analysis is heavily fact-dependent, and different people may interpret the facts differently." 30 Hofstra Lab. & Emp. L. J. at 90 (2012)
@@ -29,11 +28,9 @@ McGinley & McGinley-Stempel, 30 Hofstra Lab. & Emp. L. J. 75 (2012)
 - "Section 7 applies to the concerted action of all employees, whether in unionized workplaces, or whether or not they are engaged in a union campaign." 30 Hofstra Lab. & Emp. L. J. at 88, citing Bravo v. Dolsen Cos., 888 P.2d 147, 150-51 (Wash. 1995)
 - "an individual can be engaged in concerted activity if he or she engages in the activity "'with or on the authority of other employees, and not solely by and on behalf of the employee himself.'" 30 Hofstra Lab. & Emp. L. J. at 89, quoting Allstate Maintenance, LLC, 367 NLRB No. 68 (January 11, 2019) 
  
-
 NLRB v. Washington Aluminum Co., 370 U.S. 9, 14-15 (1962)
 
 - Spontaneous walkout by non-unionized employees over workplace conditions was concerted activity. 370 U.S. at 14-15
-
 
  Halstead Metal Products v. NLRB, 940 F. 2d 66 (4th Cir. 1991)
  
@@ -44,8 +41,6 @@ United Merchants & Mfrs., Inc. v. NLRB, 554 F.2d 1276, 1278 (4th Cir.1977)
  
 - "work stoppage and walkout by unrepresented employees for their mutual aid" was protected concerted activity. 554 F.2d at 1278, citing NLRB v. Washington Aluminum.
 
-
-
 NLRB Office of General Counsel, Memorandum GC 21-03 (March 31, 2021)
 
 > While protected, concerted activity can be a precursor to a union campaign, it also can occur outside of the context of union activity, such as in instances where employees raise safety concerns to their employer, or seek protection from government agencies. Nonetheless, constraints and limitations placed on employees engaging in concerted activities, and adverse actions taken against them in response to their protected activity, serve to effectively undermine the declared policy of the United States. 
@@ -55,12 +50,10 @@ Id. at 1.
 > Section 7 grants employees the right to engage in “concerted” activities for the purpose of “mutual aid or protection.” The latter element “focuses on the goal of concerted activity,” specifically, “whether there is a link between the activity and matters concerning the workplace or employees’ interests as employees.” The Board analyzes whether an activity is for “mutual aid or protection” using an objective standard; thus, employees’ subjective motives are irrelevant. The “mutual aid or protection” clause covers employee efforts to “improve their lot as employees through channels outside the immediate employee-employer relationship,” as well as activities “in support of employees of employers other than their own.”
 
 Id at 2, citing Fresh & Easy Neighborhood Market, Inc., 361 NLRB 151, 153 (2014); Eastex, Inc. v. NLRB, 437 U.S. 556, 559-60, 565 (1978)
- 
 
 > Section 7 protection applies not only to union activity and labor organizing; it may also cover the fundamental precursor actions that form the cornerstone of any other actions the employees may take, like discussing or protesting wages, hours, and working conditions. Additionally, employee advocacy can have the goal of “mutual aid or protection” even when the employees have not explicitly connected their activity to workplace concerns. This includes employees' political and social justice advocacy when the subject matter has a direct nexus to employees' “interests as employees.”
 
 Id. at 2
-
 
 The Ohio Bell Tel. Co., 370 NLRB No. 29 (Oct. 28, 2020)
 
@@ -106,9 +99,9 @@ COMPARE/CONTRAST DISLOYALTY EXCEPTION UNDER NLRA WITH "DUTY OF LOYALTY" UNDER ST
 
 [^PCA1]: @NCGenStat99A-2a []; see also, @ArkCode16-118-113 []. Some Ag-Gag statutes also explicitly apply to employee activity. CITES. Others would implicitly apply to employees engaged in the types of activity generally subject to liability. CITES. At least some of that employee activity will likewise be protected under the NLRA. See n. ?, infra. 
 
-[^PCA8]: Certain categories of employees are excluded from coverage under the NLRA, notably agricultural laborers. @29USC151etseq [152(3)]. While this exclusion might appear to alleviate any conflict with state ag-gag laws that apply only to agricultural facilities, that is not necessarily the case. The agricultural laborer exclusion applies only to those engaged directly in farming, @BudAntleIncBarbosa_9thCir1994[p. 1274], (quoting @CamscoProduceCo_NLRB1990 []) or who "perform tasks which are incidental to or in conjunction with [the employer's] farming operations," @BudAntleIncBarbosa_9thCir1994 [], such as "processing agricultural products … grown on the premises of the farm itself." @NLRBCalMaineFarmsInc_5thCircuit1993 []. However, it does not apply to those who are not employed by a "farmer", see @BudAntleIncBarbosa_9thCir1994 [p. 1274] (agricultural laborer exclusion does not apply to employees of vegetable cooling and packing facility where employer did not grow vegetables itself but purchased them from independent growers); @NLRBMontereyCountyTrades_9thCircuit1953 [] (agricultural laborer exclusion does not apply to employees of contractor hired to construct buildings and install equipment on poultry farm). Nor does it apply to those who process, distribute, or otherwise handle agricultural goods not grown or raised by the employer for use in its own farming operations. @HollyFarmsCorpNLRB_US1966 [] (employees who collect live chickens from independent growers and deliver them to employer's processing plant not excluded); @BaysideEnterprisesIncNLRB_US1977 [] (truck drivers who deliver poultry feed produced at employer's mill to independent poultry farms under contract with employer not excluded); @NLRBCalMaineFarmsInc_5thCircuit1993 [] (egg processing facility employees who regularly handle products purchased by employer from outside sources not excluded); @CamscoProduceCo_NLRB1990 [] (mushroom processing facility employees who regularly handle products purchased by employer from outside sources not excluded).
+[^PCA8]: Certain categories of employees are excluded from coverage under the NLRA, notably agricultural laborers. @29USC151etseq [152(3)]. While this exclusion might appear to alleviate any conflict with state ag-gag laws that apply only to agricultural facilities, that is not necessarily the case. The agricultural laborer exclusion applies only to those engaged directly in farming, @BudAntleIncBarbosa_9thCir1994[p. 1274], (quoting @CamscoProduceCo_NLRB1990 []) or who "perform tasks which are incidental to or in conjunction with [the employer's] farming operations," @BudAntleIncBarbosa_9thCir1994 [], such as "processing agricultural products … grown on the premises of the farm itself." @NLRBCalMaineFarmsInc_5thCir1993 []. However, it does not apply to those who are not employed by a "farmer", see @BudAntleIncBarbosa_9thCir1994 [p. 1274] (agricultural laborer exclusion does not apply to employees of vegetable cooling and packing facility where employer did not grow vegetables itself but purchased them from independent growers); @NLRBMontereyCountyTrades_9thCir1953 [] (agricultural laborer exclusion does not apply to employees of contractor hired to construct buildings and install equipment on poultry farm). Nor does it apply to those who process, distribute, or otherwise handle agricultural goods not grown or raised by the employer for use in its own farming operations. @HollyFarmsCorpNLRB_US1966 [] (employees who collect live chickens from independent growers and deliver them to employer's processing plant not excluded); @BaysideEnterprisesIncNLRB_US1977 [] (truck drivers who deliver poultry feed produced at employer's mill to independent poultry farms under contract with employer not excluded); @NLRBCalMaineFarmsInc_5thCir1993 [] (egg processing facility employees who regularly handle products purchased by employer from outside sources not excluded); @CamscoProduceCo_NLRB1990 [] (mushroom processing facility employees who regularly handle products purchased by employer from outside sources not excluded).
 
-    In contrast, state ag-gag laws typically define agricultural facilities more broadly, to include not just farms but also other operations along the production, processing, and distribution chain. See, e.g. @IdahoAgriculturalProduction2014 [sections (2)(a) & (b)] (defining "Agricultural production" and "Agricultural production facility" to include "Construction, expansion, use, maintenance and repair of an agricultural production facility," "Processing and packaging agricultural products, including the processing and packaging of agricultural products into food and other agricultural commodities," and "Manufacturing animal feed," along with activity more directly connected to raising crops and animals.); accord OTHER STATES. Consequently, the NLRA applies to at least some employees of agricultural facilities covered by state ag-gag laws.
+    In contrast, state ag-gag laws typically define agricultural facilities more broadly, to include not just farms but also other operations along the production, processing, and distribution chain. See, e.g. @IdahoCode18-7042 [sections (2)(a) & (b)] (defining "Agricultural production" and "Agricultural production facility" to include "Construction, expansion, use, maintenance and repair of an agricultural production facility," "Processing and packaging agricultural products, including the processing and packaging of agricultural products into food and other agricultural commodities," and "Manufacturing animal feed," along with activity more directly connected to raising crops and animals.); accord OTHER STATES. Consequently, the NLRA applies to at least some employees of agricultural facilities covered by state ag-gag laws.
 
 [^PCA9]: @NLRBWashingtonAluminumCo_US1962 [].
 
@@ -148,7 +141,7 @@ COMPARE/CONTRAST DISLOYALTY EXCEPTION UNDER NLRA WITH "DUTY OF LOYALTY" UNDER ST
 
 [^PCA28]: @KinderCareLearningCentersInc_NLRB1990 [].
 
-[^PCA29]: The NCPPA and other data trespass laws similarly undermine the enforcement of other federal laws that protect employees against health and safety hazards, discrimination, wage theft, and other harmful and abusive employment practices,  Employers are hardly likely to grant employees permission to collect evidence of such violations, and may very well attempt to cover up the problems if alerted that employees are planning to do so. Consequently, to substantiate claims of unlawful working conditions or employer conduct, employees must frequently take photos, make audio-video recordings, or copy documents without the employer's knowledge and consent. See @PETASteinFarmWorkersAmicus2021 [].
+[^PCA29]: The NCPPA and other data trespass laws similarly undermine the enforcement of other federal laws that protect employees against health and safety hazards, discrimination, wage theft, and other harmful and abusive employment practices,  Employers are hardly likely to grant employees permission to collect evidence of such violations, and may very well attempt to cover up the problems if alerted that employees are planning to do so. Consequently, to substantiate claims of unlawful working conditions or employer conduct, employees must frequently take photos, make audio-video recordings, or copy documents without the employer's knowledge and consent. See @PETASteinUFWAmicus2021 [].
 
 [^PCA30]: @NLRBElectricalWorkers_US1953 [] (affirming NLRB decision that employees' distribution of handbills attacking quality of employer's television programming, without reference to labor dispute, was unprotected); @MiklinEnterprisesIncNLRB_8thCir2016 [] (holding statements by union supporters in posters and press releases, suggesting employer's customers faced health risk from eating food prepared by employees working while sick, were unprotected even though related to employees' effort to gain paid sick leave).
 
