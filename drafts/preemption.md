@@ -96,7 +96,7 @@ _Admissibility in agency actions and employee suits of recordings made or eviden
 
 [^11]: @BudAntleIncBarbosa_9thCir1994 [].
 
-[^12]: @BudAntleIncBarbosa_9thCir1994 [p. 1269], quoting @EthridgeHarborHouseRestaurant_9thCir1988 [1399].
+[^12]: @BudAntleIncBarbosa_9thCir1994 [p. 1269], quoting @EthridgeHarborHouseRestaurant_9thCir1988 [p. 1399].
 
 [^13]: @CanAmPlumbingIncNLRB_DCCir2003 [p. 151]; @AssociatedBuildingContractorsInc_NLRB2000 []; @MannoElecInc_NLRB1996 [].
 

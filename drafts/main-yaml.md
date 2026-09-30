@@ -1,10 +1,11 @@
 ---
-modified: 2026-09-08
+modified: 2026-09-30
 path: DataTrespass/draft
 title: Workers Un-Gagged
 subtitle: Federal Labor Preemption of State Data Trespass Laws
 header: Data Trespass & Labor Preemption
-article: true
+lawreview: true
+draft: true
 
 author: 
 - name: Eric M. Fink
